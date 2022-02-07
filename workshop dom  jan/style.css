@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    border: 1px solid black;
+}
+span{
+    background-color: rgb(2, 36, 68);
+    color:white;
+
+    padding : 5px 50px
+}
+p{
+    background-color: rgb(49, 146, 133);
+color: white;
+padding: 20px;
+}
